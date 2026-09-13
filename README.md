@@ -12,7 +12,7 @@
 **Engineered by Neerukonda Jaya Uday Kiran**  
 *AI Systems Engineer • Creative 3D Web Developer*
 
-[Live Demo](http://localhost:3000) • [LinkedIn](https://linkedin.com/in/jayudaykiran) • [Email](mailto:jaiudayk@gmail.com)
+[Live Demo](https://jayudaykiran.github.io/portfolio-3d/) • [LinkedIn](https://linkedin.com/in/jayudaykiran) • [Email](mailto:jaiudayk@gmail.com)
 
 </div>
 
@@ -64,7 +64,7 @@ npm install
 ```bash
 npm run dev
 ```
-Open `http://localhost:3000` in your browser.
+Open `https://jayudaykiran.github.io/portfolio-3d/` in your browser.
 
 ### 4. Production build
 ```bash
